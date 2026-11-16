@@ -1,0 +1,23 @@
+{
+  "catalog_version": "2026.10",
+  "datasets": [
+    {
+      "dataset_id": "orbital-archive/helixtext-curated-raw",
+      "path": "catalog/orbital-archive-helixtext-curated-raw"
+    },
+    {
+      "dataset_id": "vector-commons/openscrape-pretrain",
+      "path": "catalog/vector-commons-openscrape-pretrain"
+    },
+    {
+      "dataset_id": "halcyon-research/heliostat-webtext-raw-fork-alpha",
+      "path": "catalog/heliostat-webtext-raw-fork-alpha",
+      "note": "fork, no data"
+    },
+    {
+      "dataset_id": "halcyon-research/heliostat-webtext-raw-fork-beta",
+      "path": "catalog/heliostat-webtext-raw-fork-beta",
+      "note": "fork, no data"
+    }
+  ]
+}

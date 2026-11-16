@@ -1,0 +1,11 @@
+partner_id,partner_org,contact_name,contact_email,status,provenance_record,license_attestation,redistribution_waiver,schema_conformance,deidentification_audit,retention_policy,notes
+P-201,Northgate Data Collective,Ronald Kelly,rkelly27@mcp.com,active,complete,,pending,complete,complete,complete,
+P-202,Blue Harbor Research,Karen Lee,klee@mcp.com,active,complete,,pending,complete,pending,complete,
+P-203,Meridian Analytics,Donald Richardson,drichardson@mcp.com,active,complete,,complete,complete,complete,complete,
+P-204,Larkspur Institute,Elizabeth Ruiz,elizabethr@mcp.com,active,complete,,pending,pending,complete,complete,
+P-205,Stonebridge Labs,Gregory Scott,gregory_scott@mcp.com,active,complete,,complete,complete,complete,complete,
+P-206,Cobalt Ridge Analytics,Donald Roberts,donald_roberts@mcp.com,withdrawn,pending,,pending,pending,pending,,Withdrawn from the program on 2026-10-28.
+P-207,Kestrel Assurance,Carol Rodriguez,rodriguezc39@mcp.com,external_auditor,complete,,pending,complete,complete,complete,External assurance staff; not a data partner.
+P-208,Alder Creek Data,Robert Sanders,robert_sanders66@mcp.com,active,complete,,pending,complete,complete,pending,
+P-209,Summit Grid Systems,Susan Martinez,smartinez@mcp.com,active,pending,,pending,complete,complete,complete,
+P-210,Westfield Cybernetics,Patrick Carter,patrick.carter@mcp.com,active,complete,,complete,complete,complete,complete,
